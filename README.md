@@ -1,5 +1,5 @@
 # QA Training Project Readme
-This project uses the Replit IDE, which is located [https://github.com/cmijrey/qa-training/blob/main/README.md]
+This project now uses project IDX, which is located [https://github.com/cmijrey/qa-training/blob/main/README.md](https://idx.google.com/u/0/qa-training-project-8767684)]
 
 The technologies involved with this project are [Python](https://www.python.org/), [SQLite w/Python](https://www.geeksforgreeks.org/python-sqlite/),[Selenium](https://www.selenium.dev/).
 
