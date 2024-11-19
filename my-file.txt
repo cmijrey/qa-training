@@ -1,1 +1,6 @@
 New file!
+
+# I will also note things to remind myself:
+# 'main.py' is the file that you call to run everything else
+# main.py imports the database, which corresponds to database.py
+
