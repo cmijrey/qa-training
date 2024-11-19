@@ -1,0 +1,14 @@
+New file! Now my notes
+
+# I will also note things to remind myself:
+# 'main.py' is the file that you call to run everything else
+# main.py imports the database, which corresponds to database.py
+
+Input received errors into Gemini to have it explain what’s going on. Can help you figure out resolution.
+AI is not a replacement but a human augmentation tool.
+
+Verification: Following the directions correctly
+Validation: Making sure the final product is what you wanted
+
+Shoutout to fellow classmates for asking good questions that were almost always 2-3 steps ahead of where I was, so once the problem/question was resolved and I ran into the same thing, I had learned what to do. I can be very slow to digest but once I get there I tend to get everything so far luckily. Currently it’s a matter of digestion & problem-solving rather than confusion. All of the resources mean I have 5-6+ ways of it being explained to me on top of the class days.
+
