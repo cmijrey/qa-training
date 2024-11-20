@@ -29,8 +29,8 @@ def test_python_website():
     # Clear the Searchbar
     elem.clear()
 
-    # Simulate pressing the p, y, c, o, n keys on the keyboard
-    elem.send_keys("pycon")
+    # Simulate pressing the p, y, t, h, o, n keys on the keyboard
+    elem.send_keys("python")
 
     # Simulate hitting the Enter key on the keyboard
     elem.send_keys(Keys.RETURN)
