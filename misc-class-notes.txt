@@ -16,3 +16,4 @@ Validation: Making sure the final product is what you wanted
 # All of the resources mean I have 5-6+ ways of it being explained to me on top of the class days =)
 
 # Be careful with Terminal! It assumes you know what you're doing so there's no checks in place.
+
