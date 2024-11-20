@@ -17,3 +17,4 @@ Validation: Making sure the final product is what you wanted
 
 # Be careful with Terminal! It assumes you know what you're doing so there's no checks in place.
 
+# At first I solved by eliminating Tom and it took me a little while to figure out how to keep Tom existing. lol
