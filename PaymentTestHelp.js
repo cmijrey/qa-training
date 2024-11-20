@@ -111,3 +111,5 @@ async function cartPageTest() {
 
 // Run the test
 cartPageTest();
+
+# Keeping this here for usefulness maybe later
