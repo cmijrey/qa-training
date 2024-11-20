@@ -27,7 +27,7 @@ class TestTestcardpayment():
     self.driver.find_element(By.CSS_SELECTOR, ".thin-text").click()
     self.driver.find_element(By.CSS_SELECTOR, "span:nth-child(1)").click()
     self.driver.switch_to.frame(0)
-    self.driver.find_element(By.ID, "email").click()
+    self.driver.find_element(By.ID, "email").doubleclick()
     self.driver.find_element(By.ID, "email").send_keys("testemail@example.com")
     self.driver.find_element(By.ID, "card_number").click()
     self.driver.find_element(By.ID, "card_number").send_keys("4242 4242 4242 4242")
